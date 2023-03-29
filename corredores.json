@@ -1,0 +1,23 @@
+[
+  {
+    "dorsal": 1,
+    "nombre": "Martín",
+    "marcas": [
+      {
+        "fecha": "2018-03-09",
+        "metros": 10000.0,
+        "segundos": 3600.0
+      },
+      {
+        "fecha": "2018-02-01",
+        "metros": 9876.5,
+        "segundos": 1234.56
+      }
+    ]
+  },
+  {
+    "dorsal": 2,
+    "nombre": "Paula",
+    "marcas": []
+  }
+]
